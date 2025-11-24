@@ -9,6 +9,9 @@ The purpose of this model is to essentially find the shortest path when given a 
 
 Althought the model may seem unnecessary for this, the reason why I created this was to learn more about data generation, AI/ML training, and real-life server structures such as Compute Clusters.
 
+I have placed all my code in "Version Folders", please use the latest version if you want to run this locally!
+I included different versions so you can see the progress!
+
 
 ## Project Requirements:
 
