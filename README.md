@@ -1,2 +1,2 @@
 # AI-Compute-Cluster-Project
-Making a AI/ML model to be trained in a "Compute Cluster" made up of several computers
+Project Description: This project involves developing an AI/ML model and training it with a "Compute Cluster". The "Compute Cluster" in this case (for me) is going to be several laptops I have laying around, but you can use any computer(s) you have laying around for this. 
